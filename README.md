@@ -1,42 +1,25 @@
-<p align="center">
-  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
-  <a href="#public-research">Research</a> &nbsp; / &nbsp;
-  <a href="https://x.com/aramosf">Connect ↗</a>
-</p>
+# A. Ramos
 
-I’m **A. Ramos**, a cybersecurity director and security researcher. I connect security strategy with hands-on technical work: understanding how systems fail, reproducing the evidence, and building tools that make the results useful.
+**Cybersecurity Director · Security Researcher**
 
-My public work spans **vulnerability intelligence, application security, Linux internals, reverse engineering, and reproducible research labs**.
+I lead cybersecurity and stay hands-on with security research. Here I share the tools I build, the systems I investigate, and reproducible labs behind my public work.
 
-## Selected projects
+## Projects
 
-| Project | What it does |
-| :--- | :--- |
-| **[Foreshock](https://github.com/aramosf/foreshock)** · Vulnerability intelligence | Correlates early vulnerability signals and measures how far ahead of NVD each source reports them. |
-| **[AstroScan](https://github.com/aramosf/astroscan)** · Application security | Evidence-oriented scanning for selected Astro framework vulnerabilities. |
-| **[Android Security Lab](https://github.com/aramosf/android-security-lab)** · Mobile research | A reproducible environment with Ghidra, Frida, mitmproxy, and a portable Android emulator. |
-| **[RecoverSQLite](https://github.com/aramosf/recoversqlite)** · Data recovery | Recovers deleted information from SQLite files. |
+- **[Foreshock](https://github.com/aramosf/foreshock)** — Early vulnerability intelligence: correlating public signals and measuring their lead time against NVD.
+- **[AstroScan](https://github.com/aramosf/astroscan)** — Evidence-oriented scanning for selected Astro framework vulnerabilities.
+- **[Android Security Lab](https://github.com/aramosf/android-security-lab)** — A reproducible mobile research environment with Ghidra, Frida, mitmproxy, and an Android emulator.
 
-## Public research
+## Selected research
 
-A selection of published research repositories, proofs of concept, and labs. Each repository documents its own scope and evidence.
+Reproductions, impact validation, and proof-of-concept implementations for publicly disclosed vulnerabilities. Original discovery credits and testing scope are documented in each repository.
 
-| Area | Selected repositories |
-| :--- | :--- |
-| **Linux kernel** | [Binder · CVE-2026-64468](https://github.com/aramosf/CVE-2026-64468) / [qdisc · CVE-2026-68138](https://github.com/aramosf/CVE-2026-68138) |
-| **Server security** | [Rejetto HFS · CVE-2026-61500](https://github.com/aramosf/CVE-2026-61500) / [Dovecot · CVE-2026-24031](https://github.com/aramosf/CVE-2026-24031) |
-| **Web applications** | [Roundcube · CVE-2026-54433](https://github.com/aramosf/CVE-2026-54433) / [WordPress research & labs](https://github.com/aramosf/wordpress_exploit) |
+- **[Linux Binder: process-lifetime use-after-free](https://github.com/aramosf/CVE-2026-64468)** — CVE-2026-64468. Kernel research with a vulnerable/fixed comparison in QEMU/KVM.
+- **[Dovecot: SQL authentication bypass](https://github.com/aramosf/CVE-2026-24031)** — CVE-2026-24031. Reproduction and authentication testing in a Docker lab.
+- **[Roundcube: stored XSS in plain-text email](https://github.com/aramosf/CVE-2026-54433)** — CVE-2026-54433. Impact validation with a reproducible vulnerable/fixed comparison.
 
-## How I work
-
-**Understand the system. Reproduce the behavior. Make the evidence useful.**
-
-I value clear technical boundaries, reproducible environments, and a distinction between a promising lead and demonstrated impact. My research is intended for authorized testing and responsible disclosure.
+[More repositories](https://github.com/aramosf?tab=repositories) · [SQLite recovery](https://github.com/aramosf/recoversqlite) · [Earlier projects](https://github.com/aramosf/old_stuff)
 
 ---
 
-<p align="center">
-  <a href="https://github.com/aramosf?tab=repositories">Explore all repositories ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/aramosf/old_stuff">Earlier experiments & archives</a>
-</p>
+[Connect on X](https://x.com/aramosf)
