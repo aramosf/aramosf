@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/header.svg" alt="A. Ramos — Cybersecurity Director & Security Researcher. Strategy informed by hands-on research." width="100%" />
-</p>
-
-<p align="center">
   <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
   <a href="#public-research">Research</a> &nbsp; / &nbsp;
   <a href="https://x.com/aramosf">Connect ↗</a>
